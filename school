@@ -50,3 +50,8 @@ void circles(float x, float y, float theta) {
   popMatrix(); // end transformations
   
 }
+
+https://processing.org/reference/translate_.html
+https://www.processing.org/tutorials/pvector/
+https://wiki.processing.org/reference/PVector.html
+https://www.openprocessing.org/sketch/106191/
