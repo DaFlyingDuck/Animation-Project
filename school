@@ -31,6 +31,14 @@ void draw() {
   
   circles(a, 0, theta);
   rect(200, 200, 200 ,200);
+  
+  
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  fill(255, 0, 0);
+  text("No I'm not gonna say hello world", 300, 300);
+  fill(255);
+  
 }
 
 void circles(float x, float y, float theta) {
